@@ -1,5 +1,5 @@
 # ============================================
-# Running LEDs Demo
+# Running LEDs Demo - Go to (docs) for more info on this file.
 # Description:
 #   This script lights up 5 LEDs in sequence,
 #   then turns them off in sequence,
