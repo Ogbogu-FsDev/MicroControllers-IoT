@@ -1,5 +1,5 @@
 # ============================================
-# RGB Lights PWM Demo
+# RGB Lights PWM Demo - Go to (docs) for more info on this file.
 # Description:
 #   This script uses three GPIO pins with PWM output
 #   to control an RGB LED.
